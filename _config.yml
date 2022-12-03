@@ -26,7 +26,9 @@ version:          2.1.0
 
 #github:
   #repo:           https://github.com/poole/hyde
-github: [metadata]
+#github: [metadata]
+github:
+  repo:           https://github.com/reinhardt021/reinhardt021.github.io
 kramdown:
   input: GFM
   hard_wrap: false
