@@ -1,10 +1,11 @@
 # Dependencies
-markdown:         redcarpet
+#markdown:         redcarpet # // not supported on Jekyll 4+
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true # // not supported on Jekyll 3+
 
 # Setup
 title:            Hyde
@@ -22,5 +23,21 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+#github:
+  #repo:           https://github.com/poole/hyde
+github: [metadata]
+kramdown:
+  input: GFM
+  hard_wrap: false
+gems:
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from
