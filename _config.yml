@@ -1,23 +1,18 @@
 # Dependencies
-#markdown:         redcarpet # // not supported on Jekyll 4+
-markdown:         kramdown
+markdown:         kramdown #// redcarpet not supported on Jekyll 4+
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-#relative_permalinks: true # // not supported on Jekyll 3+
 
 # Setup
-title:            REINHARDT
-#tagline:          'A Jekyll theme'
-tagline:          'endeavor'
+title:            Reinhardt
+tagline:          'We endeavor'
 #description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 description: > # this means to ignore newlines until "baseurl:"
-  My personal cove to recover, contemplate, and share. Building the space I need to step beyond my plateaus.
-#url:              http://hyde.getpoole.com
+  Gateway to another reality. Breadcrumbs to a life lived.
 url: "http://reinhardt021.github.io/" # the base hostname & protocol for your site
-#baseurl:          /
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: / # `/` needed for relative permalinks; else About page won't load
 
 
 author:
