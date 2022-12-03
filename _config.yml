@@ -8,11 +8,17 @@ permalink:        pretty
 #relative_permalinks: true # // not supported on Jekyll 3+
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            REINHARDT
+#tagline:          'A Jekyll theme'
+tagline:          'endeavor'
+#description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description: > # this means to ignore newlines until "baseurl:"
+  My personal cove to recover, contemplate, and share. Building the space I need to step beyond my plateaus.
+#url:              http://hyde.getpoole.com
+url: "http://reinhardt021.github.io/" # the base hostname & protocol for your site
+#baseurl:          /
+baseurl: "" # the subpath of your site, e.g. /blog
+
 
 author:
   name:           'Mark Otto'
