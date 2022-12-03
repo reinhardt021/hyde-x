@@ -7,3 +7,4 @@ gem 'jekyll-seo-tag'
 #gem 'redcarpet'  # // not supported on Jekyll4
 gem 'github-pages'
 gem 'pygments.rb'
+gem 'webrick'
