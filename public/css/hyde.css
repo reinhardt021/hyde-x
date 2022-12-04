@@ -256,3 +256,14 @@ a.sidebar-nav-item:focus {
 .socials {
     display: inline;
 }
+
+body {
+    background-image: url('../pz.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.layer {
+    background: rgba(255, 255, 255, 0.9);
+}
