@@ -102,6 +102,9 @@ _📌 🇨🇦 Toronto + Vancouver ~ 🇳🇿 Wellington_
 <!--![Vancouver Andy Livingstone Park]({{ site.url }}/assets/VAN_20160123_031328.jpg){: #contact-pic}-->
 <!--#### _Otherwise: exploring the world on another adventure_-->
 
+![Twitter]({{ site.url }}/public/icons8-twitter-circled-50.svg){: #twitter}
+![Github]({{ site.url }}/public/icons8-github-50.svg){: #github}
+![LinkedIn]({{ site.url }}/public/icons8-linkedin-circled-50.svg){: #linkedin}
 
 <!-- OLD stuff -->
 
