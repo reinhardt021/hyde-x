@@ -26,19 +26,31 @@ permalink: /x/
 
 "Weniger, Aber Besser" ("Less, But Better")
     - Dieter Rams
-"Strive not to be a person of success, but a person of value." 
+"Strive not to be a person of success,
+ but a person of value." 
     - Einstein
-"Before you can change the world around you, you must learn to change the worlds within you."
+"Before you can change the world around you,
+ you must learn to change the worlds within you."
     - Merlin
-"Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves"
+"Wisdom is knowing I am nothing,
+ Love is knowing I am everything,
+ and between the two my life moves"
     - Nisargadatta Maharaj
-"You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete."
+"You never change things by fighting the existing reality.
+ To change something,
+ build a new model that makes the existing model obsolete."
     - Bucky Fuller
-"If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present."
+"If you are depressed, you are living in the past.
+ If you are anxious, you are living in the future.
+ If you are at peace, you are living in the present."
     - Lao Tzu
-"If you want 1 year of prosperity, grow grain. If you want 10 years of prosperity, grow trees. If you want 100 years of prosperity, grow people."
+"If you want 1 year of prosperity, grow grain.
+ If you want 10 years of prosperity, grow trees.
+ If you want 100 years of prosperity, grow people."
     - Chinese Proverb
-"Let go your earthly tether. Enter the void. Empty and become wind."
+"Let go your earthly tether.
+ Enter the void.
+ Empty and become wind."
     - Laghima
 
 ```
