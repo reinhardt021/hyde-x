@@ -23,6 +23,9 @@ paginate:         5
 
 # Custom vars
 version:          2.1.0
+twitter:          https://twitter.com/reinhardt021
+mygithub:           https://github.com/reinhardt021
+linkedin:         https://linkedin.com/in/reinhardtcagara
 
 #github:
   #repo:           https://github.com/poole/hyde

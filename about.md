@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 <!--# 🕺 REINHARDT-->
-{:.main-title}
+<!--{:.main-title}-->
 
-> A curious mind obsessesed with understanding and cognitive science that connects psychology, design, tech, and life (~health ~recovery ~growth)
+> Born in the East, forged in the West. Making a mess in all corners of the world.
 
 
 ```
@@ -102,9 +102,16 @@ _📌 🇨🇦 Toronto + Vancouver ~ 🇳🇿 Wellington_
 <!--![Vancouver Andy Livingstone Park]({{ site.url }}/assets/VAN_20160123_031328.jpg){: #contact-pic}-->
 <!--#### _Otherwise: exploring the world on another adventure_-->
 
-![Twitter]({{ site.url }}/public/icons8-twitter-circled-50.svg){: #twitter}
-![Github]({{ site.url }}/public/icons8-github-50.svg){: #github}
-![LinkedIn]({{ site.url }}/public/icons8-linkedin-circled-50.svg){: #linkedin}
+## Find Me: 
+[
+    ![Twitter]({{ site.url }}/public/icons8-twitter-circled-50.svg){: .socials#twitter}
+]({{site.twitter}})
+[
+    ![Github]({{ site.url }}/public/icons8-github-50.svg){: .socials#github}
+]({{site.mygithub}})
+[
+    ![LinkedIn]({{ site.url }}/public/icons8-linkedin-circled-50.svg){: .socials#linkedin}
+]({{site.linkedin}})
 
 <!-- OLD stuff -->
 
